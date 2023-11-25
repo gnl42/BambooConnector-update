@@ -1,1 +1,1 @@
-# BambooConnector-update
+# Update site for the Bamboo Mylyn Builds Connector
